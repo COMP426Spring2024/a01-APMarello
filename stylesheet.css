@@ -1,0 +1,147 @@
+body{
+    background-color: #ffe4c4;
+    font-family: "Times New Roman", Times, serif;
+}
+
+ul li{
+    display: inline;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+  
+table td {
+    border: 1px solid black;
+}
+
+.nav_button{
+    color: white;
+    text-decoration: none;
+}
+
+.nav_button:hover {
+    color: grey; 
+    text-decoration: none;
+}
+  
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 25px;
+}
+
+.header{
+    font-size: 55px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #761818;
+    padding: 1% 10% 1%;
+    text-align: center;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+    text-shadow: 4px 4px 5px #000000;
+}
+
+
+.nav {
+    height: 60px;
+    width: 100%;
+    margin-top: 20px;
+    background-color: #761818;
+    text-align: center;
+    color: #777;
+    line-height: 60px; 
+}
+
+
+#home_Image {
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: auto;
+}
+
+#fireGivenToMen {
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boundToRock {
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#prometheusFire2 {
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#intro{
+    font-size: 20px;
+    padding:1% 20% 5%;
+    line-height: 1.5;
+}
+
+#bio_content{
+    font-size: 20px;
+    padding:1% 10% 0%;
+    line-height: 2;
+}
+
+.story{
+    font-size: 20px;
+    padding:5% 5% 5%;
+    line-height: 1.5;
+}
+
+#interpretation{
+    font-size: 20px;
+    padding:5% 5% 5%;
+    line-height: 1.5;
+}
+
+#titans {
+    width: 60%;
+    height: 60%;
+    padding: 5%;
+    display: block;
+    margin: auto;
+}
+
+#olympus{
+    width: 90%;
+    height: 90%;
+    padding: 2%;
+    display: block;
+    margin: auto;
+}
+
+#image_select{
+    display: block;
+    margin:auto;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+#about{
+    font-size: 20px;
+    padding:0% 5% 0%;
+    line-height: 1.5;
+}
